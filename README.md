@@ -17,34 +17,34 @@
 ### Tech Stack 🛠
 #### Languages
 <p align="left">
-  - Python - Numpy, Pandas, Ploty
-  - SQL
-  - HTML5
-  - React
-  - JavaScript
+   Python - Numpy, Pandas, Ploty
+  | SQL
+  | HTML5
+  | React
+  | JavaScript
 </p>
   
 #### Frameworks
 <p align="left">
-  - Bootstrap
-  - Jupyter
-  - Node.js
+   Bootstrap
+  | Jupyter
+  | Node.js
   </p>
 
 #### IDEs
 <p align="left">
-  - Visual_Studio
-  - Pycharm
-  - DataGrip
+   Visual_Studio
+  | Pycharm
+  | DataGrip
 </p>
 
 #### Datebases
 <p align="left">
-  - Oracle PL/SQL Developer
-  - Microsoft SQL Server
-  - Hadoop (Implala & Hive)
-  - PostgreSQL
-  - Firebase
+   Oracle PL/SQL Developer
+  | Microsoft SQL Server
+  | Hadoop (Implala & Hive)
+  | PostgreSQL
+  | Firebase
 </p>
 
  
