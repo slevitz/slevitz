@@ -16,41 +16,35 @@
 
 ### Tech Stack 🛠
 #### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-00599C?style=logoColor=white" />
-  <img src="https://img.shields.io/badge/React-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+<p align="left">
+  - Python - Numpy, Pandas, Ploty
+  - SQL
+  - HTML5
+  - React
+  - JavaScript
 </p>
   
 #### Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-</p>
-
-#### IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
+<p align="left">
+  - Bootstrap
+  - Jupyter
+  - Node.js
   </p>
 
+#### IDEs
+<p align="left">
+  - Visual_Studio
+  - Pycharm
+  - DataGrip
+</p>
+
 #### Datebases
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle PL/SQL Developer-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop (Implala & Hive)-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=clion&logoColor=white" />
+<p align="left">
+  - Oracle PL/SQL Developer
+  - Microsoft SQL Server
+  - Hadoop (Implala & Hive)
+  - PostgreSQL
+  - Firebase
 </p>
 
  
